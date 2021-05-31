@@ -1,0 +1,4 @@
+var interfacecom_1_1tuya_1_1smart_1_1interior_1_1device_1_1_i_tuya_sub_device_online_status_listener =
+[
+    [ "onSubDeviceOnlineStatus", "interfacecom_1_1tuya_1_1smart_1_1interior_1_1device_1_1_i_tuya_sub_device_online_status_listener.html#a69f98c00ab1e671f1c7e73d8323a99b2", null ]
+];

@@ -1,0 +1,4 @@
+var interfacecom_1_1tuya_1_1smart_1_1interior_1_1device_1_1_i_tuya_device_info_change_listener =
+[
+    [ "onDeviceInfoUpdate", "interfacecom_1_1tuya_1_1smart_1_1interior_1_1device_1_1_i_tuya_device_info_change_listener.html#a017eca7e58c69fe81bb0eccae14f0df9", null ]
+];

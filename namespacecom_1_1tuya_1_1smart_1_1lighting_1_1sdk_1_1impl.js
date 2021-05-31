@@ -1,0 +1,5 @@
+var namespacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1impl =
+[
+    [ "DefaultDeviceTransferListener", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1impl_1_1_default_device_transfer_listener.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1impl_1_1_default_device_transfer_listener" ],
+    [ "DefaultGroupChangeObserver", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1impl_1_1_default_group_change_observer.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1impl_1_1_default_group_change_observer" ]
+];

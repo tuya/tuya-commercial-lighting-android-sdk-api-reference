@@ -1,0 +1,28 @@
+var namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean =
+[
+    [ "scene", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1scene.html", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1scene" ],
+    [ "AreaGroupListRespBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_area_group_list_resp_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_area_group_list_resp_bean" ],
+    [ "ProjectSigMeshDeviceBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_project_sig_mesh_device_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_project_sig_mesh_device_bean" ],
+    [ "ProjectSigMeshDeviceGroup", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_project_sig_mesh_device_group.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_project_sig_mesh_device_group" ],
+    [ "ProjectSigMeshDeviceInfo", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_project_sig_mesh_device_info.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_project_sig_mesh_device_info" ],
+    [ "ProductRefBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_product_ref_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_product_ref_bean" ],
+    [ "TransferDataBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_transfer_data_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_transfer_data_bean" ],
+    [ "WarnMessageBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_warn_message_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_warn_message_bean" ],
+    [ "AreaSetting", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_area_setting.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_area_setting" ],
+    [ "AreaDeviceSummaryBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_area_device_summary_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_area_device_summary_bean" ],
+    [ "SimpleAreaBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_simple_area_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_simple_area_bean" ],
+    [ "DashBoardBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_dash_board_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_dash_board_bean" ],
+    [ "DeviceAndGroupInHomeBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_device_and_group_in_home_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_device_and_group_in_home_bean" ],
+    [ "DeviceAndGroupInRoomBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_device_and_group_in_room_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_device_and_group_in_room_bean" ],
+    [ "DeviceBizPropBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_device_biz_prop_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_device_biz_prop_bean" ],
+    [ "HomeBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_home_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_home_bean" ],
+    [ "MemberBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_member_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_member_bean" ],
+    [ "MemberWrapperBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_member_wrapper_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_member_wrapper_bean" ],
+    [ "RoomAuthBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_room_auth_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_room_auth_bean" ],
+    [ "RoomBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_room_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_room_bean" ],
+    [ "SpeechGuideBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_speech_guide_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_speech_guide_bean" ],
+    [ "SpeechPhraseBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_speech_phrase_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_speech_phrase_bean" ],
+    [ "UniversalBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_universal_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_universal_bean" ],
+    [ "VoiceCommandBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_voice_command_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_voice_command_bean" ],
+    [ "WeatherBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_weather_bean.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_weather_bean" ]
+];

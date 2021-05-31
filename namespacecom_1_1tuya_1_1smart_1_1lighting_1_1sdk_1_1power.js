@@ -1,0 +1,5 @@
+var namespacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1power =
+[
+    [ "ILightingEnergy", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1power_1_1_i_lighting_energy.html", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1power_1_1_i_lighting_energy" ],
+    [ "ITuyaLightingPowerPlugin", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1power_1_1_i_tuya_lighting_power_plugin.html", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1power_1_1_i_tuya_lighting_power_plugin" ]
+];

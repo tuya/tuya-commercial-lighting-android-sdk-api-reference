@@ -1,0 +1,27 @@
+var classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map =
+[
+    [ "getBluetooth", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a1ccff6c2e5ad72126ca5bd7b26fa27cf", null ],
+    [ "getGprs", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a03c6f9273c941681ea5e5163e4934c3e", null ],
+    [ "getInfrared", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a0ddded03a917e1371be8368e9e743ecc", null ],
+    [ "getMcu", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a5f894cce36c9890194cf7cb06265e873", null ],
+    [ "getNbIot", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#abbe1cecfdd2fa0ef577f0bbdc8d30cf1", null ],
+    [ "getSubpieces", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a6fced5f0eb96c0ad6f016bdb7f226590", null ],
+    [ "getWifi", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a842927d3990c79cc866602f1e0f68d09", null ],
+    [ "getZigbee", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#acd289409e0fca67d4d225ecc8b164b34", null ],
+    [ "setBluetooth", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a09ba0579fe96ea860b0842d281747cc9", null ],
+    [ "setGprs", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#ab78e613fdea6b5721377ddc3bdef5e32", null ],
+    [ "setInfrared", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a6a5d97cd1be0fa1d3dd9774efa651854", null ],
+    [ "setMcu", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#ae3d436008472741e9e8731064257a2f6", null ],
+    [ "setNbIot", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a9905dfd7dabb17a637c0ffe19cb184d7", null ],
+    [ "setSubpieces", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#afffb14c7d1fe9b11f1916589d0a920e2", null ],
+    [ "setWifi", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#aac266df01686f4772d71b04f0d2e4582", null ],
+    [ "setZigbee", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a9dde381c80690dbe0736bb39967641dd", null ],
+    [ "bluetooth", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a2b567471c8d5d24acb9e303697d33172", null ],
+    [ "gprs", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a73bfea24e7fd3da91b7ccd523603d71a", null ],
+    [ "infrared", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#ae281e54ce9cf5f9b05151bb7f273c8e7", null ],
+    [ "mcu", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a2fdcfdd8673d1cc07048e2ffb6f86d00", null ],
+    [ "nbIot", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a819028702afc302f2541248b0a5b844f", null ],
+    [ "subpieces", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a1affa3cca233901dc98e97919f83088c", null ],
+    [ "wifi", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a2f97783700faf205471bcceb3c77e028", null ],
+    [ "zigbee", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_module_map.html#a6f5a96cf9346803271c714072469855c", null ]
+];

@@ -1,9 +1,0 @@
-var namespacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account =
-[
-    [ "ComboInfoBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_combo_info_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_combo_info_bean" ],
-    [ "ComboListBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_combo_list_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_combo_list_bean" ],
-    [ "ComboListItemBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_combo_list_item_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_combo_list_item_bean" ],
-    [ "ComboVersion", "enumcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_combo_version.html", "enumcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_combo_version" ],
-    [ "LightingUserDetailBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_lighting_user_detail_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_lighting_user_detail_bean" ],
-    [ "ValidateAlertInfoBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_validate_alert_info_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1account_1_1_validate_alert_info_bean" ]
-];

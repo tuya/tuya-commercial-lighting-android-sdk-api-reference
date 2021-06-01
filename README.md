@@ -1,1 +1,1 @@
-## Tuya Commercial Lighting APP SDK Documentation
+## Tuya Commercial Lighting APP SDK Api Reference

@@ -169,7 +169,6 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a89c882541dad16be13f546f294ac650d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_single_transfer.html">ITuyaSingleTransfer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#a89c882541dad16be13f546f294ac650d">getTransferInstance</a> ()</td></tr>
 <tr class="separator:a89c882541dad16be13f546f294ac650d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac7f26ac878f43ffbb710e09d4060b44d"><td class="memItemLeft" align="right" valign="top">static ITuyaHomeSceneManager&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#ac7f26ac878f43ffbb710e09d4060b44d">getSceneManagerInstance</a> ()</td></tr>
-<tr class="memdesc:ac7f26ac878f43ffbb710e09d4060b44d"><td class="mdescLeft">&#160;</td><td class="mdescRight">获取场景公共管理类  <a href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#ac7f26ac878f43ffbb710e09d4060b44d">More...</a><br /></td></tr>
 <tr class="separator:ac7f26ac878f43ffbb710e09d4060b44d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5d1a2d5ecab24be14e0cab0b932a1491"><td class="memItemLeft" align="right" valign="top">static ITuyaHomeScene&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#a5d1a2d5ecab24be14e0cab0b932a1491">newSceneInstance</a> (String sceneId)</td></tr>
 <tr class="separator:a5d1a2d5ecab24be14e0cab0b932a1491"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -202,10 +201,8 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a45ed84f597edb64f4f6a63abbd6ebbb8"><td class="memItemLeft" align="right" valign="top">static ITuyaGeoFence&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#a45ed84f597edb64f4f6a63abbd6ebbb8">getGeoFenceInstance</a> ()</td></tr>
 <tr class="separator:a45ed84f597edb64f4f6a63abbd6ebbb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af6af623584e83771cd8dae06a8e13afc"><td class="memItemLeft" align="right" valign="top">static ITuyaGeoFenceOperate&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#af6af623584e83771cd8dae06a8e13afc">getGeoFenceOperateInstance</a> ()</td></tr>
-<tr class="memdesc:af6af623584e83771cd8dae06a8e13afc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Google 地理围栏模块  <a href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#af6af623584e83771cd8dae06a8e13afc">More...</a><br /></td></tr>
 <tr class="separator:af6af623584e83771cd8dae06a8e13afc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a46ac7e26507ac8285e4ddabefc85a3b3"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#a46ac7e26507ac8285e4ddabefc85a3b3">closeService</a> ()</td></tr>
-<tr class="memdesc:a46ac7e26507ac8285e4ddabefc85a3b3"><td class="mdescLeft">&#160;</td><td class="mdescRight">关闭 hardware service  <a href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#a46ac7e26507ac8285e4ddabefc85a3b3">More...</a><br /></td></tr>
 <tr class="separator:a46ac7e26507ac8285e4ddabefc85a3b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a99bdf2e59aecf7356c12465780528398"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html#a99bdf2e59aecf7356c12465780528398">enableMqttBackgroundConnect</a> ()</td></tr>
 <tr class="separator:a99bdf2e59aecf7356c12465780528398"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -260,9 +257,6 @@ Static Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>关闭 hardware service </p>
-<p>需求背景：app有在后台3分钟就要杀死手机服务的需求（为节约电量），因此有一个3分钟定时任务调用onDestroy接口 但是华为高版本机型将这个定时任务缓存起来了，应用再次打开才会触发。导致应用打开后才调用onDestroy，看起来像应用闪退。 因此提供此接口，仅关闭hardware 的service。 </p>
 
 </div>
 </div>
@@ -539,9 +533,6 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Google 地理围栏模块 </p>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
-
 </div>
 </div>
 <a id="ad5d01be6df130be54fea5f5ba0baf735"></a>
@@ -766,8 +757,6 @@ Static Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>获取场景公共管理类 </p>
 
 </div>
 </div>

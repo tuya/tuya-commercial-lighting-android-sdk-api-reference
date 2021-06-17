@@ -3,31 +3,22 @@ var namespaces_dup =
     [ "com", null, [
       [ "tuya", null, [
         [ "sdk", null, [
-          [ "business", "namespacecom_1_1tuya_1_1sdk_1_1business.html", "namespacecom_1_1tuya_1_1sdk_1_1business" ],
-          [ "model", "namespacecom_1_1tuya_1_1sdk_1_1model.html", "namespacecom_1_1tuya_1_1sdk_1_1model" ],
           [ "os", null, [
             [ "lighting", "namespacecom_1_1tuya_1_1sdk_1_1os_1_1lighting.html", "namespacecom_1_1tuya_1_1sdk_1_1os_1_1lighting" ],
             [ "TuyaOSActivator", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_activator.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_activator" ],
             [ "TuyaOSBLE", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_b_l_e.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_b_l_e" ],
             [ "TuyaOSCamera", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_camera.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_camera" ],
             [ "TuyaOSDevice", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_device.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_device" ],
-            [ "TuyaOSGroup", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_group.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_group" ],
             [ "TuyaOSMesh", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_mesh.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_mesh" ],
             [ "TuyaOSMQTT", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_m_q_t_t.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_m_q_t_t" ],
             [ "TuyaOSMultiControl", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_multi_control.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_multi_control" ],
             [ "TuyaOSTimer", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_timer.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_timer" ],
             [ "TuyaOSTyMesh", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_ty_mesh.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_ty_mesh" ],
             [ "TuyaOSUser", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_user.html", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_user" ]
-          ] ],
-          [ "util", "namespacecom_1_1tuya_1_1sdk_1_1util.html", "namespacecom_1_1tuya_1_1sdk_1_1util" ]
+          ] ]
         ] ],
         [ "smart", null, [
           [ "android", null, [
-            [ "base", null, [
-              [ "bean", "namespacecom_1_1tuya_1_1smart_1_1android_1_1base_1_1bean.html", "namespacecom_1_1tuya_1_1smart_1_1android_1_1base_1_1bean" ],
-              [ "provider", "namespacecom_1_1tuya_1_1smart_1_1android_1_1base_1_1provider.html", "namespacecom_1_1tuya_1_1smart_1_1android_1_1base_1_1provider" ],
-              [ "EncryptApiParams", "classcom_1_1tuya_1_1smart_1_1android_1_1base_1_1_encrypt_api_params.html", "classcom_1_1tuya_1_1smart_1_1android_1_1base_1_1_encrypt_api_params" ]
-            ] ],
             [ "device", null, [
               [ "api", "namespacecom_1_1tuya_1_1smart_1_1android_1_1device_1_1api.html", "namespacecom_1_1tuya_1_1smart_1_1android_1_1device_1_1api" ],
               [ "bean", "namespacecom_1_1tuya_1_1smart_1_1android_1_1device_1_1bean.html", "namespacecom_1_1tuya_1_1smart_1_1android_1_1device_1_1bean" ],
@@ -66,8 +57,7 @@ var namespaces_dup =
               [ "bean", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean.html", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean" ],
               [ "builder", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1builder.html", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1builder" ],
               [ "callback", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback.html", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback" ],
-              [ "utils", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1utils.html", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1utils" ],
-              [ "TuyaHomeSdk", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk" ]
+              [ "utils", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1utils.html", "namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1utils" ]
             ] ]
           ] ],
           [ "interior", null, [
@@ -91,15 +81,13 @@ var namespaces_dup =
                 [ "ILightingRepairManager", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1_i_lighting_repair_manager.html", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1_i_lighting_repair_manager" ],
                 [ "ILightingRepairUploader", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1_i_lighting_repair_uploader.html", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1_i_lighting_repair_uploader" ],
                 [ "ITuyaLightingRepairPlugin", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1_i_tuya_lighting_repair_plugin.html", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1_i_tuya_lighting_repair_plugin" ]
-              ] ],
-              [ "TuyaLightingKitSDK", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1_tuya_lighting_kit_s_d_k.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1_tuya_lighting_kit_s_d_k" ]
+              ] ]
             ] ]
           ] ],
           [ "sdk", null, [
             [ "api", "namespacecom_1_1tuya_1_1smart_1_1sdk_1_1api.html", "namespacecom_1_1tuya_1_1smart_1_1sdk_1_1api" ],
             [ "bean", "namespacecom_1_1tuya_1_1smart_1_1sdk_1_1bean.html", "namespacecom_1_1tuya_1_1smart_1_1sdk_1_1bean" ],
-            [ "enums", "namespacecom_1_1tuya_1_1smart_1_1sdk_1_1enums.html", "namespacecom_1_1tuya_1_1smart_1_1sdk_1_1enums" ],
-            [ "TuyaSdk", "classcom_1_1tuya_1_1smart_1_1sdk_1_1_tuya_sdk.html", "classcom_1_1tuya_1_1smart_1_1sdk_1_1_tuya_sdk" ]
+            [ "enums", "namespacecom_1_1tuya_1_1smart_1_1sdk_1_1enums.html", "namespacecom_1_1tuya_1_1smart_1_1sdk_1_1enums" ]
           ] ]
         ] ]
       ] ]

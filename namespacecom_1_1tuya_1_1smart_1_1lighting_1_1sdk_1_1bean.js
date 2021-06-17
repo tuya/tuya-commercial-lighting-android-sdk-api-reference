@@ -28,6 +28,8 @@ var namespacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean =
     [ "LightingRegionListBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_lighting_region_list_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_lighting_region_list_bean" ],
     [ "ProjectConfigRespBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_project_config_resp_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_project_config_resp_bean" ],
     [ "RelationUpdateBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_relation_update_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_relation_update_bean" ],
+    [ "RemoteControlDeviceBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_remote_control_device_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_remote_control_device_bean" ],
+    [ "SceneMatchedDeviceBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_scene_matched_device_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_scene_matched_device_bean" ],
     [ "SysAlarmCountsBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_sys_alarm_counts_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_sys_alarm_counts_bean" ],
     [ "SysAlarmListBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_sys_alarm_list_bean.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_sys_alarm_list_bean" ],
     [ "TransferResultSummary", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_transfer_result_summary.html", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_transfer_result_summary" ],

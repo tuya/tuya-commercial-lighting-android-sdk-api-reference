@@ -89,6 +89,9 @@ $(document).ready(function(){initNavTree('interfacecom_1_1tuya_1_1smart_1_1light
 <div class="title">com.tuya.smart.lighting.sdk.api.ILightingStandardAreaDpsManager Interface Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>Area dps manager interface.  
+ <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for com.tuya.smart.lighting.sdk.api.ILightingStandardAreaDpsManager:</div>
 <div class="dyncontent">
@@ -108,7 +111,7 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a4aa1aff2e3fe895b0e8bf1486eb08426"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get switch status.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a4aa1aff2e3fe895b0e8bf1486eb08426">More...</a><br /></td></tr>
 <tr class="separator:a4aa1aff2e3fe895b0e8bf1486eb08426"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaea13cb6d6117e2740591e1f607a3043"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#aaea13cb6d6117e2740591e1f607a3043">requestSwitchStatus</a> (boolean status, final IResultCallback callback)</td></tr>
-<tr class="memdesc:aaea13cb6d6117e2740591e1f607a3043"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set switch status.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#aaea13cb6d6117e2740591e1f607a3043">More...</a><br /></td></tr>
+<tr class="memdesc:aaea13cb6d6117e2740591e1f607a3043"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set switch status Replaced by <a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a797527020050568fa60b69d96cc5695a" title="Set switch status.">publishSwitchStatus(boolean, IResultCallback)</a>  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#aaea13cb6d6117e2740591e1f607a3043">More...</a><br /></td></tr>
 <tr class="separator:aaea13cb6d6117e2740591e1f607a3043"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1204a2468678be61842fdc4191e3e3c4"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a1204a2468678be61842fdc4191e3e3c4">getBrightPercent</a> ()</td></tr>
 <tr class="memdesc:a1204a2468678be61842fdc4191e3e3c4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get brightness percent(0~100)  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a1204a2468678be61842fdc4191e3e3c4">More...</a><br /></td></tr>
@@ -143,10 +146,33 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a8417dfaebb66c00fa4122743d454d5ef"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a8417dfaebb66c00fa4122743d454d5ef">control</a> (String dps, final IResultCallback callback)</td></tr>
 <tr class="memdesc:a8417dfaebb66c00fa4122743d454d5ef"><td class="mdescLeft">&#160;</td><td class="mdescRight">Publishing data points string to control area.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a8417dfaebb66c00fa4122743d454d5ef">More...</a><br /></td></tr>
 <tr class="separator:a8417dfaebb66c00fa4122743d454d5ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a797527020050568fa60b69d96cc5695a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a797527020050568fa60b69d96cc5695a">publishSwitchStatus</a> (boolean status, final IResultCallback callback)</td></tr>
+<tr class="memdesc:a797527020050568fa60b69d96cc5695a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set switch status.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a797527020050568fa60b69d96cc5695a">More...</a><br /></td></tr>
+<tr class="separator:a797527020050568fa60b69d96cc5695a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a44258d55822ac7827bc16224c75402"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a7a44258d55822ac7827bc16224c75402">publishBrightPercent</a> (int percent, IResultCallback callback)</td></tr>
+<tr class="memdesc:a7a44258d55822ac7827bc16224c75402"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set brightness percent.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a7a44258d55822ac7827bc16224c75402">More...</a><br /></td></tr>
+<tr class="separator:a7a44258d55822ac7827bc16224c75402"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a0a2e2d3bf0f0073c5e0671624d2af7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a6a0a2e2d3bf0f0073c5e0671624d2af7">publishTemperaturePercent</a> (int percent, IResultCallback callback)</td></tr>
+<tr class="memdesc:a6a0a2e2d3bf0f0073c5e0671624d2af7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set temperature percent.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a6a0a2e2d3bf0f0073c5e0671624d2af7">More...</a><br /></td></tr>
+<tr class="separator:a6a0a2e2d3bf0f0073c5e0671624d2af7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a959a44b611ca00ddaa4054b1ea0e1437"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a959a44b611ca00ddaa4054b1ea0e1437">publishColors</a> (String color, IResultCallback callback)</td></tr>
+<tr class="memdesc:a959a44b611ca00ddaa4054b1ea0e1437"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set colour data string.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a959a44b611ca00ddaa4054b1ea0e1437">More...</a><br /></td></tr>
+<tr class="separator:a959a44b611ca00ddaa4054b1ea0e1437"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c79034f2f483c39c315bff2c8208727"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a8c79034f2f483c39c315bff2c8208727">publishSceneStatus</a> (<a class="el" href="enumcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1enums_1_1_light_default_scene_type.html">LightDefaultSceneType</a> type, IResultCallback callback)</td></tr>
+<tr class="memdesc:a8c79034f2f483c39c315bff2c8208727"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set scene type.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a8c79034f2f483c39c315bff2c8208727">More...</a><br /></td></tr>
+<tr class="separator:a8c79034f2f483c39c315bff2c8208727"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a854758e061d253ce02efae21cd2d43f7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a854758e061d253ce02efae21cd2d43f7">publishWorkMode</a> (<a class="el" href="enumcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1enums_1_1_area_dp_mode.html">AreaDpMode</a> mode, IResultCallback callback)</td></tr>
+<tr class="memdesc:a854758e061d253ce02efae21cd2d43f7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set current mode.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a854758e061d253ce02efae21cd2d43f7">More...</a><br /></td></tr>
+<tr class="separator:a854758e061d253ce02efae21cd2d43f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a909a9573ec7029553df8c426bc350d58"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a909a9573ec7029553df8c426bc350d58">publishDps</a> (String dps, final IResultCallback callback)</td></tr>
+<tr class="memdesc:a909a9573ec7029553df8c426bc350d58"><td class="mdescLeft">&#160;</td><td class="mdescRight">Publishing data points string to control area.  <a href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a909a9573ec7029553df8c426bc350d58">More...</a><br /></td></tr>
+<tr class="separator:a909a9573ec7029553df8c426bc350d58"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abd37903bb71c95f45033c35ab2594d37"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#abd37903bb71c95f45033c35ab2594d37">onDestroy</a> ()</td></tr>
 <tr class="separator:abd37903bb71c95f45033c35ab2594d37"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Area dps manager interface. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="a8417dfaebb66c00fa4122743d454d5ef"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8417dfaebb66c00fa4122743d454d5ef">&#9670;&nbsp;</a></span>control()</h2>
 
@@ -174,6 +200,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Publishing data points string to control area. </p>
+<p>Replaced by <a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a909a9573ec7029553df8c426bc350d58" title="Publishing data points string to control area.">publishDps(String,IResultCallback)</a></p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">dps</td><td>Data points string. </td></tr>
@@ -341,6 +368,265 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a7a44258d55822ac7827bc16224c75402"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a44258d55822ac7827bc16224c75402">&#9670;&nbsp;</a></span>publishBrightPercent()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void com.tuya.smart.lighting.sdk.api.ILightingStandardAreaDpsManager.publishBrightPercent </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>percent</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IResultCallback&#160;</td>
+          <td class="paramname"><em>callback</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set brightness percent. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">percent</td><td>Brightness percent. </td></tr>
+    <tr><td class="paramname">callback</td><td>Callback listener. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a959a44b611ca00ddaa4054b1ea0e1437"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a959a44b611ca00ddaa4054b1ea0e1437">&#9670;&nbsp;</a></span>publishColors()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void com.tuya.smart.lighting.sdk.api.ILightingStandardAreaDpsManager.publishColors </td>
+          <td>(</td>
+          <td class="paramtype">String&#160;</td>
+          <td class="paramname"><em>color</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IResultCallback&#160;</td>
+          <td class="paramname"><em>callback</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set colour data string. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">color</td><td></td></tr>
+    <tr><td class="paramname">callback</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a909a9573ec7029553df8c426bc350d58"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a909a9573ec7029553df8c426bc350d58">&#9670;&nbsp;</a></span>publishDps()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void com.tuya.smart.lighting.sdk.api.ILightingStandardAreaDpsManager.publishDps </td>
+          <td>(</td>
+          <td class="paramtype">String&#160;</td>
+          <td class="paramname"><em>dps</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">final IResultCallback&#160;</td>
+          <td class="paramname"><em>callback</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Publishing data points string to control area. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">dps</td><td>Data points string. </td></tr>
+    <tr><td class="paramname">callback</td><td>Callback listener. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a8c79034f2f483c39c315bff2c8208727"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c79034f2f483c39c315bff2c8208727">&#9670;&nbsp;</a></span>publishSceneStatus()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void com.tuya.smart.lighting.sdk.api.ILightingStandardAreaDpsManager.publishSceneStatus </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="enumcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1enums_1_1_light_default_scene_type.html">LightDefaultSceneType</a>&#160;</td>
+          <td class="paramname"><em>type</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IResultCallback&#160;</td>
+          <td class="paramname"><em>callback</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set scene type. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">type</td><td></td></tr>
+    <tr><td class="paramname">callback</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a797527020050568fa60b69d96cc5695a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a797527020050568fa60b69d96cc5695a">&#9670;&nbsp;</a></span>publishSwitchStatus()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void com.tuya.smart.lighting.sdk.api.ILightingStandardAreaDpsManager.publishSwitchStatus </td>
+          <td>(</td>
+          <td class="paramtype">boolean&#160;</td>
+          <td class="paramname"><em>status</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">final IResultCallback&#160;</td>
+          <td class="paramname"><em>callback</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set switch status. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">status</td><td>Switch status </td></tr>
+    <tr><td class="paramname">callback</td><td>Callback listener. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a6a0a2e2d3bf0f0073c5e0671624d2af7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a0a2e2d3bf0f0073c5e0671624d2af7">&#9670;&nbsp;</a></span>publishTemperaturePercent()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void com.tuya.smart.lighting.sdk.api.ILightingStandardAreaDpsManager.publishTemperaturePercent </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>percent</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IResultCallback&#160;</td>
+          <td class="paramname"><em>callback</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set temperature percent. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">percent</td><td>Temperature percent </td></tr>
+    <tr><td class="paramname">callback</td><td>Callback listener. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a854758e061d253ce02efae21cd2d43f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a854758e061d253ce02efae21cd2d43f7">&#9670;&nbsp;</a></span>publishWorkMode()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void com.tuya.smart.lighting.sdk.api.ILightingStandardAreaDpsManager.publishWorkMode </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="enumcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1enums_1_1_area_dp_mode.html">AreaDpMode</a>&#160;</td>
+          <td class="paramname"><em>mode</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IResultCallback&#160;</td>
+          <td class="paramname"><em>callback</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set current mode. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">mode</td><td></td></tr>
+    <tr><td class="paramname">callback</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="ac974d497f54eda3b484a38930c66061c"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac974d497f54eda3b484a38930c66061c">&#9670;&nbsp;</a></span>requestBrightPercent()</h2>
 
@@ -368,6 +654,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Set brightness percent. </p>
+<p>Replaced by <a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a7a44258d55822ac7827bc16224c75402" title="Set brightness percent.">publishBrightPercent(int,IResultCallback)</a></p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">percent</td><td>Brightness percent. </td></tr>
@@ -405,6 +692,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Set current mode. </p>
+<p>Replaced by <a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a854758e061d253ce02efae21cd2d43f7" title="Set current mode.">publishWorkMode(AreaDpMode, IResultCallback)</a></p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">mode</td><td></td></tr>
@@ -442,6 +730,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Set scene type. </p>
+<p>Replaced by <a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a8c79034f2f483c39c315bff2c8208727" title="Set scene type.">publishSceneStatus(LightDefaultSceneType, IResultCallback)</a></p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">type</td><td></td></tr>
@@ -479,6 +768,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Set colour data string. </p>
+<p>Replaced by <a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a959a44b611ca00ddaa4054b1ea0e1437" title="Set colour data string.">publishColors(String,IResultCallback)</a></p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">color</td><td></td></tr>
@@ -515,7 +805,7 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Set switch status. </p>
+<p>Set switch status Replaced by <a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a797527020050568fa60b69d96cc5695a" title="Set switch status.">publishSwitchStatus(boolean, IResultCallback)</a> </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">status</td><td>Switch status </td></tr>
@@ -553,6 +843,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Set temperature percent. </p>
+<p>Replaced by <a class="el" href="interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_lighting_standard_area_dps_manager.html#a6a0a2e2d3bf0f0073c5e0671624d2af7" title="Set temperature percent.">publishTemperaturePercent(int, IResultCallback)</a></p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">percent</td><td>Temperature percent </td></tr>

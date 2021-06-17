@@ -38,8 +38,6 @@ var hierarchy =
     [ "com.tuya.smart.lighting.sdk.repair.bean.DeviceConfigInfoBean.ConfigListBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1bean_1_1_device_config_info_bean_1_1_config_list_bean.html", null ],
     [ "com.tuya.smart.home.sdk.anntation.ControlMode", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1anntation_1_1_control_mode.html", null ],
     [ "com.tuya.smart.lighting.sdk.enums.ControlModeEnum", "enumcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1enums_1_1_control_mode_enum.html", null ],
-    [ "com.tuya.smart.android.base.bean.CountryBean", "classcom_1_1tuya_1_1smart_1_1android_1_1base_1_1bean_1_1_country_bean.html", null ],
-    [ "com.tuya.smart.android.base.bean.CountryRespBean", "classcom_1_1tuya_1_1smart_1_1android_1_1base_1_1bean_1_1_country_resp_bean.html", null ],
     [ "com.tuya.smart.home.sdk.bean.DashBoardBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_dash_board_bean.html", null ],
     [ "com.tuya.smart.android.device.bean.DataPointBean", "classcom_1_1tuya_1_1smart_1_1android_1_1device_1_1bean_1_1_data_point_bean.html", null ],
     [ "com.tuya.smart.interior.device.bean.DeviceRespBean.DataPointModule", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_data_point_module.html", null ],
@@ -327,7 +325,6 @@ var hierarchy =
     [ "com.tuya.smart.lighting.sdk.api.OnAreaSettingChangeObserver", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_on_area_setting_change_observer.html", [
       [ "com.tuya.smart.lighting.sdk.api.IAreaSettingChangedTrigger", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1api_1_1_i_area_setting_changed_trigger.html", null ]
     ] ],
-    [ "com.tuya.sdk.util.OptimusUtil", "classcom_1_1tuya_1_1sdk_1_1util_1_1_optimus_util.html", null ],
     [ "com.tuya.smart.interior.device.bean.DeviceRespBean.OTAMoulde", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_o_t_a_moulde.html", null ],
     [ "com.tuya.smart.interior.device.bean.DeviceRespBean.OTAMouldeMap", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_o_t_a_moulde_map.html", null ],
     [ "com.tuya.smart.android.device.bean.DeviceMultiControlRelationBean.ParentRulesBean", "classcom_1_1tuya_1_1smart_1_1android_1_1device_1_1bean_1_1_device_multi_control_relation_bean_1_1_parent_rules_bean.html", null ],
@@ -351,6 +348,7 @@ var hierarchy =
     [ "com.tuya.smart.lighting.sdk.bean.RelationUpdateBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_relation_update_bean.html", [
       [ "com.tuya.smart.sdk.bean.SaveDeviceToGroupResp", "classcom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1_save_device_to_group_resp.html", null ]
     ] ],
+    [ "com.tuya.smart.lighting.sdk.bean.RemoteControlDeviceBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_remote_control_device_bean.html", null ],
     [ "com.tuya.smart.lighting.sdk.repair.bean.RepairFaultTypeBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1bean_1_1_repair_fault_type_bean.html", null ],
     [ "com.tuya.smart.lighting.sdk.repair.bean.RepairFinishResultBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1bean_1_1_repair_finish_result_bean.html", null ],
     [ "com.tuya.smart.lighting.sdk.repair.bean.RepairListBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1bean_1_1_repair_list_bean.html", null ],
@@ -362,6 +360,7 @@ var hierarchy =
     [ "com.tuya.smart.home.sdk.bean.RoomBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_room_bean.html", null ],
     [ "com.tuya.smart.interior.device.confusebean.SandO", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1confusebean_1_1_sand_o.html", null ],
     [ "com.tuya.smart.home.sdk.bean.scene.SceneAuthBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1scene_1_1_scene_auth_bean.html", null ],
+    [ "com.tuya.smart.lighting.sdk.bean.SceneMatchedDeviceBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_scene_matched_device_bean.html", null ],
     [ "com.tuya.smart.sdk.bean.ProductBean.SchemaInfo", "classcom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1_product_bean_1_1_schema_info.html", null ],
     [ "com.tuya.smart.home.sdk.utils.SchemaMapper", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1utils_1_1_schema_mapper.html", null ],
     [ "com.tuya.smart.interior.device.bean.DeviceRespBean.ShareInfoModule", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean_1_1_share_info_module.html", null ],
@@ -382,7 +381,6 @@ var hierarchy =
     [ "com.tuya.smart.lighting.sdk.bean.SysAlarmListBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_sys_alarm_list_bean.html", null ],
     [ "com.tuya.smart.lighting.sdk.bean.DeviceTaskResultBean.TaskResultBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_device_task_result_bean_1_1_task_result_bean.html", null ],
     [ "com.tuya.smart.lighting.sdk.repair.bean.RepairOrderDetailBean.TicketDeviceBean", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1repair_1_1bean_1_1_repair_order_detail_bean_1_1_ticket_device_bean.html", null ],
-    [ "com.tuya.sdk.model.TimeManager", "classcom_1_1tuya_1_1sdk_1_1model_1_1_time_manager.html", null ],
     [ "com.tuya.smart.home.sdk.bean.TransferDataBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_transfer_data_bean.html", null ],
     [ "com.tuya.smart.lighting.sdk.bean.TransferErrorCode", "interfacecom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_transfer_error_code.html", null ],
     [ "com.tuya.smart.lighting.sdk.bean.TransferResultSummary", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1bean_1_1_transfer_result_summary.html", null ],
@@ -397,13 +395,10 @@ var hierarchy =
     [ "com.tuya.sdk.os.lighting.TuyaCommercialLightingRepair", "classcom_1_1tuya_1_1sdk_1_1os_1_1lighting_1_1_tuya_commercial_lighting_repair.html", null ],
     [ "com.tuya.sdk.os.lighting.TuyaCommercialLightingScene", "classcom_1_1tuya_1_1sdk_1_1os_1_1lighting_1_1_tuya_commercial_lighting_scene.html", null ],
     [ "com.tuya.sdk.os.lighting.TuyaCommercialLightingSysAlarm", "classcom_1_1tuya_1_1sdk_1_1os_1_1lighting_1_1_tuya_commercial_lighting_sys_alarm.html", null ],
-    [ "com.tuya.smart.home.sdk.TuyaHomeSdk", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1_tuya_home_sdk.html", null ],
-    [ "com.tuya.smart.lighting.sdk.TuyaLightingKitSDK", "classcom_1_1tuya_1_1smart_1_1lighting_1_1sdk_1_1_tuya_lighting_kit_s_d_k.html", null ],
     [ "com.tuya.sdk.os.TuyaOSActivator", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_activator.html", null ],
     [ "com.tuya.sdk.os.TuyaOSBLE", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_b_l_e.html", null ],
     [ "com.tuya.sdk.os.TuyaOSCamera", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_camera.html", null ],
     [ "com.tuya.sdk.os.TuyaOSDevice", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_device.html", null ],
-    [ "com.tuya.sdk.os.TuyaOSGroup", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_group.html", null ],
     [ "com.tuya.sdk.os.TuyaOSMesh", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_mesh.html", null ],
     [ "com.tuya.sdk.os.TuyaOSMQTT", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_m_q_t_t.html", null ],
     [ "com.tuya.sdk.os.TuyaOSMultiControl", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_multi_control.html", null ],
@@ -411,7 +406,6 @@ var hierarchy =
     [ "com.tuya.sdk.os.TuyaOSTyMesh", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_ty_mesh.html", null ],
     [ "com.tuya.sdk.os.TuyaOSUser", "classcom_1_1tuya_1_1sdk_1_1os_1_1_tuya_o_s_user.html", null ],
     [ "com.tuya.smart.sdk.bean.push.TuyaPushBean", "classcom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1push_1_1_tuya_push_bean.html", null ],
-    [ "com.tuya.smart.sdk.TuyaSdk", "classcom_1_1tuya_1_1smart_1_1sdk_1_1_tuya_sdk.html", null ],
     [ "com.tuya.smart.sdk.enums.TYDevicePublishModeEnum", "enumcom_1_1tuya_1_1smart_1_1sdk_1_1enums_1_1_t_y_device_publish_mode_enum.html", null ],
     [ "com.tuya.smart.sdk.bean.UiInfo", "classcom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1_ui_info.html", null ],
     [ "com.tuya.smart.home.sdk.bean.UniversalBean", "classcom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1bean_1_1_universal_bean.html", null ],
@@ -423,15 +417,6 @@ var hierarchy =
     [ "com.tuya.smart.sdk.bean.ZigbeeGroupCreateResultBean", "classcom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1_zigbee_group_create_result_bean.html", null ],
     [ "com.tuya.smart.interior.event.ZigbeeSubDevDpUpdateEvent", "interfacecom_1_1tuya_1_1smart_1_1interior_1_1event_1_1_zigbee_sub_dev_dp_update_event.html", null ],
     [ "com.tuya.smart.interior.event.ZigbeeSubDevDpUpdateEventModel", "classcom_1_1tuya_1_1smart_1_1interior_1_1event_1_1_zigbee_sub_dev_dp_update_event_model.html", null ],
-    [ "ApiParams", null, [
-      [ "com.tuya.smart.android.base.EncryptApiParams", "classcom_1_1tuya_1_1smart_1_1android_1_1base_1_1_encrypt_api_params.html", null ]
-    ] ],
-    [ "Business", null, [
-      [ "com.tuya.sdk.business.ClientBusiness", "classcom_1_1tuya_1_1sdk_1_1business_1_1_client_business.html", null ]
-    ] ],
-    [ "IApiUrlProvider", null, [
-      [ "com.tuya.smart.android.base.provider.ApiUrlProvider", "classcom_1_1tuya_1_1smart_1_1android_1_1base_1_1provider_1_1_api_url_provider.html", null ]
-    ] ],
     [ "IStorageCache", null, [
       [ "com.tuya.smart.interior.device.bean.DeviceGwBean", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_gw_bean.html", null ],
       [ "com.tuya.smart.interior.device.bean.DeviceRespBean", "classcom_1_1tuya_1_1smart_1_1interior_1_1device_1_1bean_1_1_device_resp_bean.html", [

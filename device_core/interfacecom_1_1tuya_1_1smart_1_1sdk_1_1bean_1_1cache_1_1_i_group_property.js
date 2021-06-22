@@ -1,0 +1,26 @@
+var interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property =
+[
+    [ "getCategory", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a7b168e2d42bbe406ed735537599b8d74", null ],
+    [ "getDeviceBeans", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a5b2719badcf597b8c2a422b648f0ecc7", null ],
+    [ "getDeviceNum", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a33ac516d02631a743e5a8943dcc9734f", null ],
+    [ "getDevIds", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a5929c4540c836487c0d6ef5c5c40d0ef", null ],
+    [ "getDisplayOrder", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#aeeb5aaeae69564ffa8aedad1137aa390", null ],
+    [ "getDpCodes", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a3132face4be785559026d8d4d329e5c7", null ],
+    [ "getDpName", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#af3e3122ac7e1f7225078d1cf09d8b160", null ],
+    [ "getDps", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a60f151cffa77e5a5e3bf7f05b73d4a5d", null ],
+    [ "getGroupRespBean", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#aba79225f96bd7cefc7b3933fc4f17d7e", null ],
+    [ "getHomeDisplayOrder", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#abdc9aa6de420d7e43a9bd40cea5fa86d", null ],
+    [ "getIconUrl", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a8d1d517a4db6f70ded453db193793d48", null ],
+    [ "getId", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a742f5ba36bbc964d23acdc0538a25332", null ],
+    [ "getIsOnline", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#aea704f1f21ec44e54e1b9a3a1f5078fb", null ],
+    [ "getLocalId", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a5c680b83346f263d91586cff37712d14", null ],
+    [ "getLocalKey", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#ad910434680132a5d649f1e428a3d1f15", null ],
+    [ "getMeshId", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a006e786424c9708bb1aebe9f583ddc67", null ],
+    [ "getName", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#ab4609fd792398f5bfd23886f1ea45caa", null ],
+    [ "getProductId", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a5f9861a9284fe2b229f19f427117d94f", null ],
+    [ "getPv", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#ac860c65127999677b7729322a348377f", null ],
+    [ "getTime", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#ad59945f230498c9c5f7b264605014b4e", null ],
+    [ "getType", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#ab45783a5696396820efc6a449c3e29ba", null ],
+    [ "isShare", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a9ea96092532f4e1f54321a2aac2051fa", null ],
+    [ "isStandard", "interfacecom_1_1tuya_1_1smart_1_1sdk_1_1bean_1_1cache_1_1_i_group_property.html#a9fcc7326907dd372a06ca3f60a5dfc0f", null ]
+];

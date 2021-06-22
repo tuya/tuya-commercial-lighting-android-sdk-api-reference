@@ -1,0 +1,16 @@
+var namespacecom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean =
+[
+    [ "TuyaMerchantBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_merchant_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_merchant_bean" ],
+    [ "TuyaUserBaseReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_base_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_base_req_bean" ],
+    [ "TuyaUserCheckValidateCodeReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_check_validate_code_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_check_validate_code_req_bean" ],
+    [ "TuyaUserFindPwdReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_find_pwd_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_find_pwd_req_bean" ],
+    [ "TuyaUserLoginOrRegisterReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_login_or_register_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_login_or_register_req_bean" ],
+    [ "TuyaUserLoginWithCodeReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_login_with_code_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_login_with_code_req_bean" ],
+    [ "TuyaUserLoginWithPwdReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_login_with_pwd_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_login_with_pwd_req_bean" ],
+    [ "TuyaUserModifyInfoReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_modify_info_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_modify_info_req_bean" ],
+    [ "TuyaUserModifyPwdReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_modify_pwd_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_modify_pwd_req_bean" ],
+    [ "TuyaUserQueryMerchantWithCodeReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_query_merchant_with_code_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_query_merchant_with_code_req_bean" ],
+    [ "TuyaUserRegisterReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_register_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_register_req_bean" ],
+    [ "TuyaUserSendCodeReqBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_send_code_req_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_send_code_req_bean" ],
+    [ "TuyaUserSimpleBean", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_simple_bean.html", "classcom_1_1tuya_1_1smart_1_1android_1_1user_1_1bean_1_1_tuya_user_simple_bean" ]
+];

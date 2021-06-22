@@ -1,0 +1,8 @@
+var namespacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback =
+[
+    [ "ITuyaDeviceUpgradeStatusCallback", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_device_upgrade_status_callback.html", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_device_upgrade_status_callback" ],
+    [ "ITuyaResultCallback", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_result_callback.html", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_result_callback" ],
+    [ "ITuyaSingleTransfer", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_single_transfer.html", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_single_transfer" ],
+    [ "ITuyaTransferCallback", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_transfer_callback.html", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_transfer_callback" ],
+    [ "ITuyaVoiceTransfer", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_voice_transfer.html", "interfacecom_1_1tuya_1_1smart_1_1home_1_1sdk_1_1callback_1_1_i_tuya_voice_transfer" ]
+];
